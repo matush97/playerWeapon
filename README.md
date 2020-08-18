@@ -1,7 +1,7 @@
 # playerWeapon
 Player and Weapon
 
-V rámci zadania sme mali sprviť návrh tried.
+V rámci zadania sme mali spraviť návrh tried.
 
 Vytvoriť triedu Player, ktorá reprezentuje 1 hráča. Táto trieda obsahuje generický typ Weapon.  Každý hráč musí mať name, health a weapon. Zaručiť, aby nemohol existovať hráč bez zadanej hodnoty atribútu name. Zaručiť, aby Knight mohol používať iba zbraň Sword, Barbarian zbraň Axe a Ranger iba zbraň Bow.
 
